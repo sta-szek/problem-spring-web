@@ -24,6 +24,7 @@ class for your [`@ControllerAdvice`](http://docs.spring.io/spring/docs/current/j
 - lets you choose traits *à la carte*
 - favors composition over inheritance
 - +15 useful advice traits built in
+- logging of 4xx and 5xx responses
 
 ## Dependencies
 
